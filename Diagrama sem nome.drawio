@@ -1,9 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2023-03-25T10:09:05.892Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.1.1" etag="3J6HyawhANxpKeIWXZ_p" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-25T10:18:39.493Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="rIqMmpTz3Gh8E-OC38ou" version="21.1.1" type="github">
   <diagram name="Página-1" id="3lH4THT1OKabYWOE15I-">
-    <mxGraphModel>
+    <mxGraphModel dx="874" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UDS6u31mmKBcnRI7lXIW-8" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="UDS6u31mmKBcnRI7lXIW-1" target="UDS6u31mmKBcnRI7lXIW-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UDS6u31mmKBcnRI7lXIW-1" value="&lt;b&gt;Aprendeu?&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="358.75" y="790" width="132.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UDS6u31mmKBcnRI7lXIW-4" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="UDS6u31mmKBcnRI7lXIW-2" target="UDS6u31mmKBcnRI7lXIW-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UDS6u31mmKBcnRI7lXIW-2" value="&lt;b&gt;Inicio&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="375" y="520" width="115" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UDS6u31mmKBcnRI7lXIW-7" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UDS6u31mmKBcnRI7lXIW-3" target="UDS6u31mmKBcnRI7lXIW-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UDS6u31mmKBcnRI7lXIW-3" value="&lt;b&gt;Estudar Fluxograma&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="370" y="640" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UDS6u31mmKBcnRI7lXIW-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Não&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="750" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDS6u31mmKBcnRI7lXIW-10" value="Fim" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="550" y="810" width="130" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
